@@ -1,4 +1,4 @@
-# Project Resonance Wave 3 - Internet Wide Web Server Analysis
+# Project Resonance Wave 2 - Internet Wide Web Server Analysis
 
 > Blog: https://redhuntlabs.com/blog/wave-2-analysis-of-internet-wide-web-servers.html
 
