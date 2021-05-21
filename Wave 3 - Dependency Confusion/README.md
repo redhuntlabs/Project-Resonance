@@ -6,4 +6,4 @@ As a part of Wave 3, we are releasing the list of top Github organizations and a
 
 Datasets:
 - [Github Organisations](orgs.txt)
-- [Github Repositories (Tagged with languages)](orgs.txt)
+- [Github Repositories (Tagged with languages)](repos.txt)
