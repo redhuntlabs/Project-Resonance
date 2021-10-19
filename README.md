@@ -8,3 +8,4 @@ Research and datasets released:
 - [Wave 1 - Subdomain Takeovers](Wave%201%20-%20Subdomain%20Takeovers/README.md)
 - [Wave 2 - Internet Wide Web Server Analysis](Wave%202%20-%20Internet%20Wide%20Web%20Server%20Analysis/README.md)
 - [Wave 3 - Dependency Confusion](Wave%203%20-%20Dependency%20Confusion/README.md)
+- [Wave 4 - Exposed Databases](Wave%204%20-%20Exposed%20Databases/README.md)
