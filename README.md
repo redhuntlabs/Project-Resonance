@@ -15,3 +15,5 @@ Research and datasets released:
 - [Wave 8 - Scanning Android Apps for Secrets & More](https://redhuntlabs.com/blog/the-current-state-of-security-privacy-and-attack-surface-on-android-scanning-apps-for-secrets-and-more-wave-8.html) | [Dataset](Wave%208%20-%20Scanning%20Android%20Apps/README.md)
 - [Wave 9 - Thousands of Unsecured Kubernetes Clusters Exposed on the Internet](https://redhuntlabs.com/blog/unsecured-kubernetes-clusters-exposed.html)
 - [Wave 10 - Analysing Misconfigured Firebase Apps](https://redhuntlabs.com/blog/analysing-misconfigured-firebase-apps-a-tale-of-unearthing-data-breaches-wave-10.html)
+- [Wave 11 - The State of the Web: Technology Adoption and Security Issues in the Internet’s Top 1 Million Sites](https://redhuntlabs.com/blog/wave-11-analysis-of-the-top-1-million-websites/) | [Dataset](https://github.com/redhuntlabs/Project-Resonance/tree/master/Wave%2011%20-%20Scanning%20Top%201%20Million%20Sites)
+
