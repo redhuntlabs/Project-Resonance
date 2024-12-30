@@ -15,3 +15,6 @@ Research and datasets released:
 - [Wave 8 - Scanning Android Apps for Secrets & More](https://redhuntlabs.com/blog/the-current-state-of-security-privacy-and-attack-surface-on-android-scanning-apps-for-secrets-and-more-wave-8.html) | [Dataset](Wave%208%20-%20Scanning%20Android%20Apps/README.md)
 - [Wave 9 - Thousands of Unsecured Kubernetes Clusters Exposed on the Internet](https://redhuntlabs.com/blog/unsecured-kubernetes-clusters-exposed.html)
 - [Wave 10 - Analysing Misconfigured Firebase Apps](https://redhuntlabs.com/blog/analysing-misconfigured-firebase-apps-a-tale-of-unearthing-data-breaches-wave-10.html)
+
+
+- [Wave 12 - Open Port Chronicle: What Port 80 Revealed About The Internet](link) | [Dataset](Wave%2012%20-%20Scanning%20Port%2080%20on%20Entire%20IPv4%20Range/README.md)
