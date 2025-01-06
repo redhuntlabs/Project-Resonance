@@ -9,4 +9,4 @@ For Wave 12, we conducted a comprehensive scan of the entire IPv4 range on Port 
 - Unique "X-Frame-Options" Headers  
 - Unique CSP (Content Security Policy) Headers  
 
-Don't forget to check out our blog for more details: [link]
+Don't forget to check out our blog for more details: [https://redhuntlabs.com/blog/open-port-chronicle-what-port-80-revealed-about-the-internet-project-resonance-wave-12/](https://redhuntlabs.com/blog/open-port-chronicle-what-port-80-revealed-about-the-internet-project-resonance-wave-12/)
